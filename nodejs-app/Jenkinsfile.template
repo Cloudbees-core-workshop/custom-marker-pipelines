@@ -35,7 +35,7 @@ pipeline {
       }
       input {
         message "Should we deploy?"
-        submitter "jhillis2"
+        submitter "jsharper"
         submitterParameter "APPROVER"
       } 
       }
